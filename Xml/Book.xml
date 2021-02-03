@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BookInfo>
+	<book>
+		<bookno>1111</bookno>
+		<bookname>C</bookname>
+		<author>Aniket</author>
+		<price>400Rs</price>
+		<year>2020</year>
+	</book>
+	<book>
+		<bookno>1112</bookno>
+		<bookname>C++</bookname>
+		<author>Devarshi</author>
+		<price>450Rs</price>
+		<year>2021</year>
+	</book>
+	<book>
+		<bookno>1113</bookno>
+		<bookname>Java</bookname>
+		<author>Sagar</author>
+		<price>500Rs</price>
+		<year>2019</year>
+	</book>
+	<book>
+		<bookno>1114</bookno>
+		<bookname>PHP</bookname>
+		<author>Gaurav</author>
+		<price>200Rs</price>
+		<year>2023</year>
+	</book>
+	<book>
+		<bookno>1115</bookno>
+		<bookname>HTML</bookname>
+		<author>Anup</author>
+		<price>100</price>
+		<year>2024</year>
+	</book>
+</BookInfo>

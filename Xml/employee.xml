@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeInfo>
+	<Employee>
+		<Eno>1</Eno>
+		<Ename>Aniket</Ename>
+		<Esalary>40000</Esalary>
+		<Edesg>Manager</Edesg>
+	</Employee>
+	<Employee>
+		<Eno>1</Eno>
+		<Ename>Devarshi</Ename>
+		<Esalary>30000</Esalary>
+		<Edesg>Extra Manager</Edesg>
+	</Employee>
+	<Employee>
+		<Eno>1</Eno>
+		<Ename>Sagar</Ename>
+		<Esalary>35000</Esalary>
+		<Edesg>New Manager</Edesg>
+	</Employee>
+</EmployeeInfo>
+
